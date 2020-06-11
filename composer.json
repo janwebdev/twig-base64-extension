@@ -1,5 +1,5 @@
 {
-  "name": "basster/twig-base64-extension",
+  "name": "janwebdev/twig-base64-extension",
   "type": "library",
   "require": {
     "php": "^7.2",
